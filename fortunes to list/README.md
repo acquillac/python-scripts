@@ -1,2 +1,2 @@
-using fortunes from shlomifish
+## using fortunes from shlomifish
 https://www.shlomifish.org/humour/fortunes/
